@@ -1,0 +1,48 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+
+[[main]]
+  name = "Job Descriptions"
+  weight = 10
+
+[[main]]
+  name = "Frontend Engineering"
+  parent = "Job Descriptions"
+  pageRef = "fe_job_description"
+  weight = 10
+
+[[main]]
+  name = "iOS Engineering"
+  parent = "Job Descriptions"
+  pageRef = "ios_job_description"
+  weight = 20
+
+[[main]]
+  name = "Mobile Engineering"
+  parent = "Job Descriptions"
+  pageRef = "mobile_job_descriptions"
+  weight = 30
+
+[[main]]
+  name = "Categories"
+  pageRef = "categories"
+  weight = 20
+
+
+[[main]]
+  name = "Learning Resources"
+  pageRef = "learning_resources"
+  weight = 30
+
+# -- Footer Menu --
+
+[[footer]]
+  name = "Categories"
+  pageRef = "categories"
+  weight = 10
+
+[[footer]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 20
