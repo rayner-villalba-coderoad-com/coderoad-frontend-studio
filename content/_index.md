@@ -6,7 +6,6 @@ description: "This is Frontend and Mobile Engineering Hub"
   tag=h1
   lifeLike=true
 >}}
-Design is not just what it looks like and feels like. Design is how it works.
-Steve Jobs
+Building the Experiences Behind Every Great Product.
 {{< /typeit >}}
 
