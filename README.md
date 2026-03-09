@@ -1,4 +1,4 @@
-# CodeRoadFrontend and Mobile Engineering Hub
+# CodeRoad Frontend and Mobile Engineering Hub
 
 A centralized knowledge base for **CodeRoad's** Frontend and Mobile engineering teams. Built with [Hugo](https://gohugo.io/) and the [Blowfish](https://blowfish.page/) theme, it provides structured job descriptions, learning resources, and career paths for engineering roles across Frontend, iOS, and Mobile disciplines.
 
