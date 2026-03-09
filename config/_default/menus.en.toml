@@ -35,6 +35,11 @@
   pageRef = "learning_resources"
   weight = 30
 
+[[main]]
+  name = "Trainings"
+  pageRef = "trainings"
+  weight = 40
+
 # -- Footer Menu --
 
 [[footer]]
