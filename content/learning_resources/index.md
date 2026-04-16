@@ -59,7 +59,7 @@ The journey of becoming a frontend developer can feel overwhelming, but structur
 - [Data Structures Roadmap](https://roadmap.sh/datastructures-and-algorithms) — A thorough roadmap for mastering data structures and algorithms, essential for efficient problem-solving in software development.
 - [Code Review Roadmap](https://roadmap.sh/code-review) — A comprehensive guide on how to conduct effective code reviews, improving code quality and team collaboration.
 
-## Learning Resources
+## Resources Library
 
 ### Books
 
