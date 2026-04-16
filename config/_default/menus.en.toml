@@ -3,42 +3,42 @@
 # Acceptable parameters are name, pageRef, page, url, title, weight.
 
 [[main]]
-  name = "Job Descriptions"
+  name = "Career Path"
   weight = 10
 
 [[main]]
   name = "Frontend Engineering"
-  parent = "Job Descriptions"
+  parent = "Career Path"
   pageRef = "fe_job_description"
   weight = 10
 
 [[main]]
   name = "iOS Engineering"
-  parent = "Job Descriptions"
+  parent = "Career Path"
   pageRef = "ios_job_description"
   weight = 20
 
 [[main]]
   name = "Mobile Engineering"
-  parent = "Job Descriptions"
+  parent = "Career Path"
   pageRef = "mobile_job_descriptions"
   weight = 30
 
-[[main]]
-  name = "Categories"
-  pageRef = "categories"
-  weight = 20
+#[[main]]
+#  name = "Categories"
+#  pageRef = "categories"
+#  weight = 20
 
 
 [[main]]
-  name = "Learning Resources"
+  name = "Resources Library"
   pageRef = "learning_resources"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "Trainings"
   pageRef = "trainings"
-  weight = 40
+  weight = 30
 
 # -- Footer Menu --
 
